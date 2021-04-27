@@ -1,9 +1,9 @@
-#include<iostream> //헤더파일
+-> #include<iostream> //헤더파일
 
 using namespace std; 
 /* 
 #define _plus(a,b)(a+b)
-#define _A 100     //여기까지 전처리 선언문(컴파일 이전에 실행, ;가 안붙음)
+#define _A 100   <-  //여기까지 전처리 선언문(컴파일 이전에 실행, ;가 안붙음)
 void main()
 {
     cout << "Hello world!" << endl;
